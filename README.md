@@ -6,7 +6,7 @@
 <br><br>
 <pre>
     💼 Bsc. CSIT student 
-    💻 UI/UX Designer • DevOps 
+    💻 UI/UX Designer 
     🐰 Books • Music • Code • Art 🐤🐥
 </pre>
 <br>
